@@ -23,5 +23,10 @@
 2. [Grove-Moisture_Sensor](http://wiki.seeedstudio.com/Grove-Moisture_Sensor)
 3. [Ejemplos Lora - Arduino](https://github.com/dragino/Lora/tree/master/Lora%20Shield)
 
+Acelerometro
+
+https://www.youtube.com/watch?v=_przDICw1-Q
+https://hetpro-store.com/TUTORIALES/mma7361-sensor-acelerometro/
+
 
 
