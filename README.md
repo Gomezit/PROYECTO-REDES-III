@@ -4,6 +4,10 @@
 
 ### Grove-Moisture-Sensor
 
+Inline-style: 
+![alt text](http://i63.tinypic.com/25h2z6c.jpg "Connect grove miosture sensor to arduino")
+
+
 ####   Here are suggested sensor values:
 | *Min*   | *Typ*   | *Max*   | *Condition*             |
 | --------|:-------:| -------:| -------------           |
