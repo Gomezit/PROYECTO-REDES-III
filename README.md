@@ -1,5 +1,19 @@
 # Lora Shield v1.4 - Arduino Mega
 
+
+
+### Grove-Moisture-Sensor
+
+####   Here are suggested sensor values:
+| *Min*   | *Typ*   | *Max*   | *Condition*             |
+| --------|:-------:| -------:| -------------           |
+| 0       | 0       | 0       | sensor in open air      |
+| 0       | 20      | 300     | sensor in dry soil      |
+| 300     | 580     | 700     | sensor in humid soil    |
+| 700     | 940     | 950     | sensor in water         |
+
+
+
 ## Links de interés
 
 1. [wiki.dragino.com](https://wiki.dragino.com/index.php?title=Lora_Shield)
