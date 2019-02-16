@@ -21,7 +21,7 @@
 
 1. [wiki.dragino.com](https://wiki.dragino.com/index.php?title=Lora_Shield)
 2. [Grove-Moisture-Sensor](http://wiki.seeedstudio.com/Grove-Moisture_Sensor)
-3. [Ejemplos Lora - Arduino](https://github.com/dragino/Lora/tree/master/Lora%20Shield)
+3. [Examples Lora - Arduino](https://github.com/dragino/Lora/tree/master/Lora%20Shield)
 4. [Video connect accelerometer](https://www.youtube.com/watch?v=_przDICw1-Q)
 5. [Accelerometer Arduino Code](https://hetpro-store.com/TUTORIALES/mma7361-sensor-acelerometro/)
 
