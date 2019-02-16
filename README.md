@@ -3,7 +3,7 @@
 
 ### Accelerometer
 
-![alt text](http://i68.tinypic.com/9s48bn.png "Connect accelerometer to arduino")
+![alt text](http://i66.tinypic.com/r2ojeg.jpg  "Connect accelerometer to arduino mega 2560 ")
 
 
 
@@ -20,6 +20,9 @@
 | 300     | 580     | 700     | sensor in humid soil    |
 | 700     | 940     | 950     | sensor in water         |
 
+### Output accelerometer and moisture sensor together
+
+![alt text](http://i68.tinypic.com/9s48bn.png "Output later connect moisture sensor and accelerometer to arduino mega 2560 ")
 
 
 ## Interesting links
