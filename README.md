@@ -17,7 +17,7 @@
 
 
 
-## Links de interés
+## Interesting links
 
 1. [wiki.dragino.com](https://wiki.dragino.com/index.php?title=Lora_Shield)
 2. [Grove-Moisture-Sensor](http://wiki.seeedstudio.com/Grove-Moisture_Sensor)
