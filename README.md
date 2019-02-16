@@ -1,6 +1,11 @@
 # Lora Shield v1.4 - Arduino Mega
 ###### Author: Jaime Andrés Gómez Gutiérrez | Caldas University
 
+### Accelerometer
+
+![alt text](http://i68.tinypic.com/9s48bn.png "Connect accelerometer to arduino")
+
+
 
 ### Grove-Moisture-Sensor
 
