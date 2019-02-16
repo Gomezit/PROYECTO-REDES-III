@@ -1,5 +1,5 @@
 # Lora Shield v1.4 - Arduino Mega
-
+###### Author: Jaime Andrés Gómez Gutiérrez | Student of Caldas University
 
 
 ### Grove-Moisture-Sensor
