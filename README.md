@@ -38,6 +38,7 @@
 3. [Examples Lora - Arduino](https://github.com/dragino/Lora/tree/master/Lora%20Shield)
 4. [Video connect accelerometer](https://www.youtube.com/watch?v=_przDICw1-Q)
 5. [Accelerometer Arduino Code](https://hetpro-store.com/TUTORIALES/mma7361-sensor-acelerometro/)
+6. [Building a global open LoRaWAN™ network](https://www.thethingsnetwork.org/)
 
 
 
