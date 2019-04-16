@@ -13,7 +13,7 @@
 ![alt text](http://i63.tinypic.com/25h2z6c.jpg "Connect grove miosture sensor to arduino")
 
 
-####   Here are suggested sensor values:
+####   Here are suggested for this sensor values:
 | *Min*   | *Typ*   | *Max*   | *Condition*             |
 | --------|:-------:| -------:| -------------           |
 | 0       | 0       | 0       | sensor in open air      |
@@ -21,7 +21,12 @@
 | 300     | 580     | 700     | sensor in humid soil    |
 | 700     | 940     | 950     | sensor in water         |
 
-### Output accelerometer and moisture sensor together
+### Accelerometer and moisture sensor together over Lora Shield v1.4 - Arduino Mega
+
+![alt text](http://i68.tinypic.com/ixfc74.jpg "Accelerometer and moisture sensor together over Lora Shield v1.4 - Arduino Mega 2560 ")
+
+
+### Output accelerometer and moisture sensor together 
 
 ![alt text](http://i68.tinypic.com/9s48bn.png "Output later connect moisture sensor and accelerometer to arduino mega 2560 ")
 
