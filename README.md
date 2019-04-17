@@ -3,9 +3,9 @@
 ###### Subject: Networks III
 
 ## Features 
-> Encrypted comunication
-> Warning alarm
-> Node server
+> Encrypted comunication, 
+> Warning alarm, 
+> Node server, 
 > Node client: Grove-Moisture-Sensor and Accelerometer
 
 
