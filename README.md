@@ -8,6 +8,9 @@
 > Node server, 
 > Node client: Grove-Moisture-Sensor and Accelerometer
 
+![alt text](http://i66.tinypic.com/33c3lhv.jpg "Testing bidirectional comunication")
+
+
 
 ### Accelerometer
 
@@ -38,9 +41,6 @@
 ![alt text](http://i68.tinypic.com/9s48bn.png "Output later connect moisture sensor and accelerometer to arduino mega 2560 ")
 
 
-### Output testing bidirectional comunication
-
-![alt text](http://es.tinypic.com/r/2wlvpjs/9 "Output testing bidirectional comunication")
 
 
 ## Interesting links
