@@ -10,6 +10,11 @@
 
 ![alt text](http://i66.tinypic.com/33c3lhv.jpg "Testing bidirectional comunication")
 
+### Output testing bidirectional comunication without encrypted
+
+![alt text](http://i67.tinypic.com/2wlvpjs.jpg "Output testing bidirectional comunication")
+
+
 
 
 ### Accelerometer
