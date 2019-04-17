@@ -37,6 +37,15 @@
 
 ![alt text](http://i68.tinypic.com/9s48bn.png "Output later connect moisture sensor and accelerometer to arduino mega 2560 ")
 
+### Testing bidirectional comunication
+
+![alt text](http://es.tinypic.com/r/33c3lhv/9 "Testing bidirectional comunication")
+
+
+### Output testing bidirectional comunication
+
+![alt text](http://es.tinypic.com/r/2wlvpjs/9 "Output testing bidirectional comunication")
+
 
 ## Interesting links
 
