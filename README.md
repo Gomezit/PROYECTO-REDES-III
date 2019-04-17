@@ -2,6 +2,13 @@
 ###### Author: Jaime Andrés Gómez Gutiérrez | Caldas University
 ###### Subject: Networks III
 
+## Features 
+#### -Encrypted comunication
+#### -Warning alarm
+#### -Node server
+#### -Node client: Grove-Moisture-Sensor and Accelerometer
+
+
 ### Accelerometer
 
 ![alt text](http://i66.tinypic.com/r2ojeg.jpg  "Connect accelerometer to arduino mega 2560 ")
