@@ -17,7 +17,7 @@
 
 ### Output testing bidirectional comunication without encrypted
 
-![alt text](http://i67.tinypic.com/2wlvpjs.jpg "Output testing bidirectional comunication")
+![alt text](http://i67.tinypic.com/2wlvpjs.jpg  "Output testing bidirectional comunication")
 
 
 
