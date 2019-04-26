@@ -50,6 +50,22 @@
 
 ![alt text](http://i68.tinypic.com/9s48bn.png "Output later connect moisture sensor and accelerometer to arduino mega 2560 ")
 
+## Tests field
+
+#### Moisture test
+
+![alt text](http://i64.tinypic.com/105v8fk.jpg "Test moisture")
+
+
+![alt text](http://i68.tinypic.com/2nqbh4o.png "Test moisture")
+
+
+#### Accelerometer test
+
+
+
+![alt text](http://i67.tinypic.com/10574ud.jpg  "Accelerometer moisture")
+
 
 
 
