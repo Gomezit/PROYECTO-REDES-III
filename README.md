@@ -8,6 +8,30 @@
 > Node server, 
 > Node client: Grove-Moisture-Sensor and Accelerometer
 
+Features:
+
+Frequency band: 868 MHZ
+Low energy consumption
+Compatible with Arduino Leonardo, Uno, Mega, DUE
+External antenna through the I-Pex connector
+ 
+
+Specifications:
+
+Communication link of 168dB maximum.
++20 dBm - 100 mW of constant RF power vs. +14 dBm high efficiency PA.
+Programmable speed of up to 300 kbps.
+High sensitivity: up to -148 dBm.
+Low receive current of 10.3 mA, 200 nA in sleep mode.
+Fully integrated synthesizer with a resolution of 61 Hz.
+Modulation FSK, GFSK, MSK, GMSK, LoRa ™ and OOK.
+Built-in bit synchronizer for clock recovery.
+Preamble detection.
+Dynamic range of 127 dB RSSI.
+Automatic RF sensor and CAD with ultra fast AFC.
+Packet engine up to 256 bytes with CRC.
+Built-in temperature sensor and low battery indicator.
+
 ![alt text](http://i66.tinypic.com/33c3lhv.jpg "Testing bidirectional comunication")
 
 ### Output send data to server encrypted
@@ -65,6 +89,13 @@
 
 
 ![alt text](http://i67.tinypic.com/10574ud.jpg  "Accelerometer moisture")
+
+![alt text](http://i68.tinypic.com/fbdj0g.png  "Accelerometer moisture")
+
+
+#### Video test
+
+![alt text](https://youtu.be/CISP1jIE9hM  "Accelerometer moisture")
 
 
 
