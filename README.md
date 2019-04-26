@@ -94,8 +94,8 @@ Built-in temperature sensor and low battery indicator.
 
 
 #### Video test
+https://youtu.be/CISP1jIE9hM
 
-![alt text](https://youtu.be/CISP1jIE9hM  "Accelerometer moisture")
 
 
 
