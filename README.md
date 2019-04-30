@@ -87,10 +87,7 @@ Built-in temperature sensor and low battery indicator.
 #### Accelerometer test
 
 
-
-![alt text](http://i67.tinypic.com/10574ud.jpg  "Accelerometer moisture")
-
-![alt text](http://i68.tinypic.com/fbdj0g.png  "Accelerometer moisture")
+![alt text](http://i68.tinypic.com/fbdj0g.png  "Accelerometer")
 
 
 #### Video test
