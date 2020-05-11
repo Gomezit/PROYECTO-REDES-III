@@ -34,11 +34,11 @@ Automatic RF sensor and CAD with ultra fast AFC.
 Packet engine up to 256 bytes with CRC.
 Built-in temperature sensor and low battery indicator.
 
-!(./readme-static/lora-shield.jpg)
+(./readme-static/lora-shield.jpg)
 
 ### Final mounting
 
-!(./readme-static/final-mounting.jpg)
+(./readme-static/final-mounting.jpg)
 
 ### Accelerometer
 
@@ -63,7 +63,7 @@ Built-in temperature sensor and low battery indicator.
 
 #### Video test
 
-https://youtu.be/CISP1jIE9hM
+(./readme-static/video.mp4)
 
 ## Interesting links
 
