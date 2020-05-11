@@ -63,7 +63,7 @@ Built-in temperature sensor and low battery indicator.
 
 #### Video test
 
-[![Alt text](./readme-static/moisture.jpg)](./readme-static/video.mp4)
+https://youtu.be/CISP1jIE9hM
 
 ## Interesting links
 
